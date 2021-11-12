@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container,Grid,Header,Image,Divider } from 'semantic-ui-react';
+import { Container,Header,Image,Divider } from 'semantic-ui-react';
 import leancanvas from '../images/leancanvas.jpg'
 
 function Leancanvas() {
