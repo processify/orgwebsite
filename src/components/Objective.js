@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container,Grid,Header,Image,Divider } from 'semantic-ui-react';
+import { Container,Grid,Header } from 'semantic-ui-react';
 import WoProcessify from './woProcessify';
 import WProcessify from './wProcessify';
 
