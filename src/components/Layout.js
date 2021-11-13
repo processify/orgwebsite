@@ -30,8 +30,15 @@ const Layout = (props) => {
 
         <Menu.Item >
         <Link to='/objective'>
-        <Icon name='align justify' size='big'/>
-         Value
+        <Icon name='book' size='big'/>
+         Stories
+         </Link>
+        </Menu.Item>
+
+        <Menu.Item >
+        <Link to='/gameplan'>
+        <Icon name='chess board' size='big'/>
+         Game Plan
          </Link>
         </Menu.Item>
 
@@ -50,9 +57,12 @@ const Layout = (props) => {
         </Menu.Item>
 
         <Menu.Item >
+        <Link to='/contactus'>
         <Icon name='log out' size='big'/>
-        Demo
+        Contact Us
+        </Link>
         </Menu.Item>
+        
       </Container>
     </Menu>
 

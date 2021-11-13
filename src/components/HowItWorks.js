@@ -17,34 +17,34 @@ function HowItWorks() {
        
       <Step.Group >
     <Step active>
-       <Icon name='info' />
+       <Icon name='assistive listening systems' />
       <Step.Content>
         <Step.Title>Listen</Step.Title>
-        <Step.Description><p>We understand and model your own business process </p></Step.Description>
+        <Step.Description><p>We Understand your Biz Process </p></Step.Description>
       </Step.Content>
     </Step>
 
     <Step active>
-      <Icon name='truck' />
+      <Icon name='building' />
       <Step.Content>
-        <Step.Title>Demonstrate</Step.Title>
-        <Step.Description>We implement,delivere, demomntrate and optimize the process.</Step.Description>
+        <Step.Title> Build</Step.Title>
+        <Step.Description>We Deliver, Demonstrate and Train.</Step.Description>
       </Step.Content>
     </Step>
 
     <Step active>
-      <Icon name='info' />
+      <Icon name='american sign language interpreting' />
       <Step.Content>
-        <Step.Title>Use</Step.Title>
-        <Step.Description>You use and provide feedback.</Step.Description>
+        <Step.Title>Use & Cadence</Step.Title>
+        <Step.Description>You Use and provide feedback.We Optimize</Step.Description>
       </Step.Content>
     </Step>
 
     <Step active>
-    <Icon name='payment' />
+    <Icon name='money bill alternate' />
       <Step.Content>
         <Step.Title>Pay</Step.Title>
-        <Step.Description>You pay if usage crosses an agreed threshold</Step.Description>
+        <Step.Description>You pay beyond an agreed threshold usage</Step.Description>
       </Step.Content>
     </Step>
   </Step.Group>
