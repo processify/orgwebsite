@@ -13,7 +13,7 @@ const Layout = (props) => {
 
   return(
   <div >
-    <Menu inverted fixed='top' color='teal'>
+    <Menu  stackable  inverted  color='teal'>
       <Container className='mt-3'>
         <Menu.Item  header>
           {/*<Image size='mini' src={logo} style={{ marginRight: '1.5em' }} />*/}
