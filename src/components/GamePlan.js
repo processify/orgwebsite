@@ -16,26 +16,26 @@ function GamePlan() {
        
       <Step.Group >
     <Step active>
-       <Icon name='assistive listening systems' />
+       <Icon name='hourglass start' />
       <Step.Content>
         <Step.Title>Incubate</Step.Title>
-        <Step.Description><p>Pilot for Single Org Ecosystem with one channel</p></Step.Description>
+        <Step.Description><b>Q3 FY22</b> Pilot for Single Enterprise with one channel</Step.Description>
       </Step.Content>
     </Step>
 
     <Step active>
-      <Icon name='building' />
+      <Icon name='hourglass half' />
       <Step.Content>
         <Step.Title>Scale</Step.Title>
-        <Step.Description>Scale and onbording more customers Single Org Ecosystem with multi channels</Step.Description>
+        <Step.Description><b>Q2 FY23</b> Scale and onbording more customers with multi channels</Step.Description>
       </Step.Content>
     </Step>
 
     <Step active>
-      <Icon name='american sign language interpreting' />
+      <Icon name='hourglass end' />
       <Step.Content>
         <Step.Title>Multi Org Ecosystem</Step.Title>
-        <Step.Description>Introduce and Scale for Multi Org Ecosystem</Step.Description>
+        <Step.Description><b>Q1 FY24</b> Introduce and Scale for Multi Org Ecosystem</Step.Description>
       </Step.Content>
     </Step>
 
