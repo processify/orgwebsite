@@ -44,14 +44,14 @@ const Layout = (props) => {
 
         <Menu.Item >
         <Link to='/howitworks'>
-        <Icon name='mail' size='big'/>
+        <Icon name='road' size='big'/>
         How It Works
         </Link>
         </Menu.Item>
 
         <Menu.Item >
         <Link to='/leancanvas'>
-        <Icon name='align justify' size='big'/>
+        <Icon name='file alternate outline' size='big'/>
          Lean Canvas
          </Link>
         </Menu.Item>

@@ -19,7 +19,7 @@ function wProcessify() {
        <p>
          Small or Medium Enterprise will be powered by optional existing tools and new Processify SaaS 
          Platform to deliver service within time, budget and  quality, with uber like experience for happy
-        customer and exployee. They scale their business with current workforce and easily proactively 
+        customer and employee. They scale their business with current workforce and easily proactively 
         forecast additional workforce if needed.
        
        
